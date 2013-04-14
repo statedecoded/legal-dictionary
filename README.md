@@ -1,4 +1,3 @@
-legal-dictionary
-================
+# Legal Dictionary
 
-A glossary of terms specific to the legal practice, sourced from the public domain.
+A glossary of terms and definitions, sourced from the public domain, that are specific to the legal industry.
